@@ -1,4 +1,4 @@
-class Hola
+class EvenChecker
     def self.is_even?(i)
         puts "checking if #{i} is even..."
         res = i.even?
